@@ -1,7 +1,7 @@
 # glint-util
 
 
-glint container for blocks
+glint utility functions
 
 
 # install

@@ -1,7 +1,7 @@
 {
   "name": "glint-util",
   "version": "1.0.0",
-  "description": "glint container for blocks",
+  "description": "glint utility functions",
   "keywords": [
     "glintcms",
     "glint",
