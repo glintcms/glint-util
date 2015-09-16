@@ -1,7 +1,7 @@
 /**
  * Module dependencies.
  */
-var debug = require('debug')('glint:utils');
+var debug = require('debug')('glint-util');
 
 /**
  * requires modules. works on server and client,

@@ -10,14 +10,3 @@ module.exports = function each(obj, name, args, fn) {
   });
   return proxy;
 };
-
-
-//
-//
-//each(obj /*[, args]*/)
-//  .filter(function (item) {
-//    return !item.browser()
-//  })
-//  .call(function(item, key) {
-//    item.load(args[key])
-//  })
